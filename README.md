@@ -14,6 +14,7 @@ Spring Security, OAuth2 and JWT </h1>
 - MYSQL
 - Bruno (For endopints)
 - Docker
+- Swagger
 
 ** 🔍 Download the project and test. **
 
