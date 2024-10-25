@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="30%" src="images/2560px-Spring_Framework_Logo_2018.svg"> 
+</p>
+
 <h1 align="center">
 Spring Security, OAuth2 and JWT </h1>
 
