@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="30%" src="images/2560px-Spring_Framework_Logo_2018.svg"> 
+    <img width="30%" src="/images/spring-logo.png"> 
 </p>
 
 <h1 align="center">
