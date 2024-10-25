@@ -19,3 +19,6 @@ Spring Security, OAuth2 and JWT </h1>
 ** 🔍 Download the project and test. **
 
 [Meet my Profile and Projects! 😊](https://www.linkedin.com/in/yan-carlos-00a740251/)
+
+## 💻 Developer
+- Yan Carlos
